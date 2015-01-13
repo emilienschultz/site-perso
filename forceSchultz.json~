@@ -1,0 +1,695 @@
+{
+    "directed": false, 
+    "graph": [], 
+    "links": [
+        {
+            "source": 0, 
+            "target": 3, 
+            "value": 1
+        }, 
+        {
+            "source": 0, 
+            "target": 4, 
+            "value": 1
+        }, 
+        {
+            "source": 0, 
+            "target": 23, 
+            "value": 1
+        }, 
+        {
+            "source": 0, 
+            "target": 29, 
+            "value": 1
+        }, 
+        {
+            "source": 0, 
+            "target": 10, 
+            "value": 1
+        }, 
+        {
+            "source": 1, 
+            "target": 10, 
+            "value": 1
+        }, 
+        {
+            "source": 1, 
+            "target": 8, 
+            "value": 1
+        }, 
+        {
+            "source": 1, 
+            "target": 30, 
+            "value": 1
+        }, 
+        {
+            "source": 1, 
+            "target": 13, 
+            "value": 1
+        }, 
+        {
+            "source": 1, 
+            "target": 35, 
+            "value": 1
+        }, 
+        {
+            "source": 1, 
+            "target": 26, 
+            "value": 1
+        }, 
+        {
+            "source": 2, 
+            "target": 9, 
+            "value": 1
+        }, 
+        {
+            "source": 2, 
+            "target": 27, 
+            "value": 1
+        }, 
+        {
+            "source": 2, 
+            "target": 6, 
+            "value": 1
+        }, 
+        {
+            "source": 2, 
+            "target": 18, 
+            "value": 1
+        }, 
+        {
+            "source": 2, 
+            "target": 5, 
+            "value": 1
+        }, 
+        {
+            "source": 2, 
+            "target": 15, 
+            "value": 1
+        }, 
+        {
+            "source": 3, 
+            "target": 23, 
+            "value": 1
+        }, 
+        {
+            "source": 3, 
+            "target": 29, 
+            "value": 1
+        }, 
+        {
+            "source": 4, 
+            "target": 10, 
+            "value": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 9, 
+            "value": 1
+        }, 
+        {
+            "source": 5, 
+            "target": 15, 
+            "value": 1
+        }, 
+        {
+            "source": 6, 
+            "target": 18, 
+            "value": 1
+        }, 
+        {
+            "source": 6, 
+            "target": 27, 
+            "value": 1
+        }, 
+        {
+            "source": 6, 
+            "target": 15, 
+            "value": 1
+        }, 
+        {
+            "source": 7, 
+            "target": 34, 
+            "value": 1
+        }, 
+        {
+            "source": 7, 
+            "target": 14, 
+            "value": 1
+        }, 
+        {
+            "source": 7, 
+            "target": 15, 
+            "value": 1
+        }, 
+        {
+            "source": 8, 
+            "target": 10, 
+            "value": 1
+        }, 
+        {
+            "source": 8, 
+            "target": 30, 
+            "value": 1
+        }, 
+        {
+            "source": 8, 
+            "target": 13, 
+            "value": 1
+        }, 
+        {
+            "source": 8, 
+            "target": 35, 
+            "value": 1
+        }, 
+        {
+            "source": 8, 
+            "target": 26, 
+            "value": 1
+        }, 
+        {
+            "source": 9, 
+            "target": 15, 
+            "value": 1
+        }, 
+        {
+            "source": 10, 
+            "target": 35, 
+            "value": 1
+        }, 
+        {
+            "source": 10, 
+            "target": 12, 
+            "value": 1
+        }, 
+        {
+            "source": 10, 
+            "target": 13, 
+            "value": 1
+        }, 
+        {
+            "source": 10, 
+            "target": 30, 
+            "value": 1
+        }, 
+        {
+            "source": 10, 
+            "target": 32, 
+            "value": 1
+        }, 
+        {
+            "source": 10, 
+            "target": 18, 
+            "value": 1
+        }, 
+        {
+            "source": 10, 
+            "target": 20, 
+            "value": 1
+        }, 
+        {
+            "source": 10, 
+            "target": 16, 
+            "value": 1
+        }, 
+        {
+            "source": 10, 
+            "target": 21, 
+            "value": 1
+        }, 
+        {
+            "source": 10, 
+            "target": 22, 
+            "value": 1
+        }, 
+        {
+            "source": 10, 
+            "target": 26, 
+            "value": 1
+        }, 
+        {
+            "source": 11, 
+            "target": 17, 
+            "value": 1
+        }, 
+        {
+            "source": 11, 
+            "target": 33, 
+            "value": 1
+        }, 
+        {
+            "source": 11, 
+            "target": 27, 
+            "value": 1
+        }, 
+        {
+            "source": 12, 
+            "target": 32, 
+            "value": 1
+        }, 
+        {
+            "source": 12, 
+            "target": 26, 
+            "value": 1
+        }, 
+        {
+            "source": 12, 
+            "target": 21, 
+            "value": 1
+        }, 
+        {
+            "source": 13, 
+            "target": 30, 
+            "value": 1
+        }, 
+        {
+            "source": 13, 
+            "target": 35, 
+            "value": 1
+        }, 
+        {
+            "source": 13, 
+            "target": 26, 
+            "value": 1
+        }, 
+        {
+            "source": 14, 
+            "target": 34, 
+            "value": 1
+        }, 
+        {
+            "source": 14, 
+            "target": 15, 
+            "value": 1
+        }, 
+        {
+            "source": 15, 
+            "target": 27, 
+            "value": 1
+        }, 
+        {
+            "source": 15, 
+            "target": 18, 
+            "value": 1
+        }, 
+        {
+            "source": 15, 
+            "target": 34, 
+            "value": 1
+        }, 
+        {
+            "source": 16, 
+            "target": 22, 
+            "value": 1
+        }, 
+        {
+            "source": 16, 
+            "target": 20, 
+            "value": 1
+        }, 
+        {
+            "source": 16, 
+            "target": 18, 
+            "value": 1
+        }, 
+        {
+            "source": 17, 
+            "target": 33, 
+            "value": 1
+        }, 
+        {
+            "source": 17, 
+            "target": 27, 
+            "value": 1
+        }, 
+        {
+            "source": 18, 
+            "target": 27, 
+            "value": 1
+        }, 
+        {
+            "source": 18, 
+            "target": 20, 
+            "value": 1
+        }, 
+        {
+            "source": 18, 
+            "target": 22, 
+            "value": 1
+        }, 
+        {
+            "source": 19, 
+            "target": 24, 
+            "value": 1
+        }, 
+        {
+            "source": 19, 
+            "target": 28, 
+            "value": 1
+        }, 
+        {
+            "source": 19, 
+            "target": 31, 
+            "value": 1
+        }, 
+        {
+            "source": 19, 
+            "target": 30, 
+            "value": 1
+        }, 
+        {
+            "source": 19, 
+            "target": 35, 
+            "value": 1
+        }, 
+        {
+            "source": 20, 
+            "target": 22, 
+            "value": 1
+        }, 
+        {
+            "source": 21, 
+            "target": 26, 
+            "value": 1
+        }, 
+        {
+            "source": 21, 
+            "target": 32, 
+            "value": 1
+        }, 
+        {
+            "source": 23, 
+            "target": 29, 
+            "value": 1
+        }, 
+        {
+            "source": 24, 
+            "target": 31, 
+            "value": 1
+        }, 
+        {
+            "source": 24, 
+            "target": 30, 
+            "value": 1
+        }, 
+        {
+            "source": 24, 
+            "target": 35, 
+            "value": 1
+        }, 
+        {
+            "source": 24, 
+            "target": 28, 
+            "value": 1
+        }, 
+        {
+            "source": 25, 
+            "target": 28, 
+            "value": 1
+        }, 
+        {
+            "source": 25, 
+            "target": 31, 
+            "value": 1
+        }, 
+        {
+            "source": 25, 
+            "target": 30, 
+            "value": 1
+        }, 
+        {
+            "source": 25, 
+            "target": 35, 
+            "value": 1
+        }, 
+        {
+            "source": 26, 
+            "target": 30, 
+            "value": 1
+        }, 
+        {
+            "source": 26, 
+            "target": 32, 
+            "value": 1
+        }, 
+        {
+            "source": 26, 
+            "target": 35, 
+            "value": 1
+        }, 
+        {
+            "source": 27, 
+            "target": 33, 
+            "value": 1
+        }, 
+        {
+            "source": 28, 
+            "target": 30, 
+            "value": 1
+        }, 
+        {
+            "source": 28, 
+            "target": 31, 
+            "value": 1
+        }, 
+        {
+            "source": 28, 
+            "target": 35, 
+            "value": 1
+        }, 
+        {
+            "source": 30, 
+            "target": 31, 
+            "value": 1
+        }, 
+        {
+            "source": 30, 
+            "target": 35, 
+            "value": 1
+        }, 
+        {
+            "source": 31, 
+            "target": 35, 
+            "value": 1
+        }
+    ], 
+    "multigraph": false, 
+    "nodes": [
+        {
+            "id": "indicateurs", 
+            "name": "indicateurs", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "financement de la recherche", 
+            "name": "financement de la recherche", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "traitement secondaire de donn\u00e9es", 
+            "name": "traitement secondaire de donn\u00e9es", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "scientom\u00e9trie", 
+            "name": "scientom\u00e9trie", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "quantification", 
+            "name": "quantification", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "data mining", 
+            "name": "data mining", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "outils quantitatifs", 
+            "name": "outils quantitatifs", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "canc\u00e9rologie", 
+            "name": "canc\u00e9rologie", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "agence de financement", 
+            "name": "agence de financement", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "visualisation de donn\u00e9es", 
+            "name": "visualisation de donn\u00e9es", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "sociologie des sciences", 
+            "name": "sociologie des sciences", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "d\u00e9veloppement web", 
+            "name": "d\u00e9veloppement web", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "science studies", 
+            "name": "science studies", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "gouvernance de la recherche", 
+            "name": "gouvernance de la recherche", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "essais cliniques pr\u00e9coces", 
+            "name": "essais cliniques pr\u00e9coces", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "traitement de donn\u00e9es", 
+            "name": "traitement de donn\u00e9es", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "sociologie des organisations", 
+            "name": "sociologie des organisations", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "interfaces", 
+            "name": "interfaces", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "analyse de r\u00e9seaux", 
+            "name": "analyse de r\u00e9seaux", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "chimie verte", 
+            "name": "chimie verte", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "sociologie des controverses", 
+            "name": "sociologie des controverses", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "STS", 
+            "name": "STS", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "organisations scientifiques", 
+            "name": "organisations scientifiques", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "\u00e9valuation de la recherche", 
+            "name": "\u00e9valuation de la recherche", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "sociologie de l'environnement", 
+            "name": "sociologie de l'environnement", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "g\u00e9nomique v\u00e9g\u00e9tale", 
+            "name": "g\u00e9nomique v\u00e9g\u00e9tale", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "science policy", 
+            "name": "science policy", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "programmation", 
+            "name": "programmation", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "politiques scientifiques", 
+            "name": "politiques scientifiques", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "\u00e9valuation d'impact", 
+            "name": "\u00e9valuation d'impact", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "financement sur projets", 
+            "name": "financement sur projets", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "communaut\u00e9s scientifiques", 
+            "name": "communaut\u00e9s scientifiques", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "sociologie politique", 
+            "name": "sociologie politique", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "nouveaux dipositifs d'enqu\u00eate", 
+            "name": "nouveaux dipositifs d'enqu\u00eate", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "dispositifs d'enqu\u00eate", 
+            "name": "dispositifs d'enqu\u00eate", 
+            "type": 0, 
+            "value": 1
+        }, 
+        {
+            "id": "ANR", 
+            "name": "ANR", 
+            "type": 0, 
+            "value": 1
+        }
+    ]
+}
